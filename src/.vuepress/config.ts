@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/HUGweb/",
 
   lang: "zh-CN",
-  title: "文档演示",
-  description: "vuepress-theme-hope 的文档演示",
+  title: "HUGToolBox",
+  description: "HUGToolBox 的文档",
 
   theme,
 
