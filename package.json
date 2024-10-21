@@ -7,18 +7,17 @@
   "scripts": {
     "docs:build": "vuepress build src",
     "docs:clean-dev": "vuepress-vite dev src --clean-cache",
-    "docs:dev": "vuepress-vite dev src",
+    "docs:dev": "vuepress- vite dev src",
     "docs:update-package": "npx vp-update"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.17",
+    "@vuepress/bundler-vite": "2.0.0-rc.18",
     "sass-embedded": "^1.79.4",
-    "vue": "^3.5.10",
-    "vuepress": "2.0.0-rc.17",
+    "vue": "^3.5.12",
+    "vuepress": "2.0.0-rc.18",
     "vuepress-theme-hope": "2.0.0-rc.58"
   },
   "dependencies": {
-    "vuepress-plugin-search-pro": "^2.0.0-rc.57",
-    "vite": "^5.0.0"
+    "vuepress-plugin-search-pro": "2.0.0-rc.57"
   }
 }

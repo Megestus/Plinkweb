@@ -9,11 +9,10 @@ export default defineUserConfig({
 
   lang: "zh-CN",
   title: "HUGToolBox",
-  description: "HUGToolBox",
+  description: "vuepress-theme-hope 的文档演示",
 
   theme,
 
-  // 更新别名配置
   alias: {
     "@theme-hope/modules/blog/components/BlogHero": path.resolve(
       __dirname,

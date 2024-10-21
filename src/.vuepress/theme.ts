@@ -4,14 +4,15 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://hugtools.github.io",
+
+  hostname: "https://github.com/Megestus",
 
   author: {
     name: "Megestus",
     url: "https://github.com/Megestus",
   },
 
-  logo: "/mainUI.png",
+  logo: "/MainUI.png",
 
   favicon: "MainUI.png",
 
