@@ -35,7 +35,7 @@ jobs:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |
           pnpm run docs:build
-          touch src/.vuepress/dist
+          ls -la src/.vuepress/dist  # 添加此行以检查目录内容
 
       - name: 部署文档
         uses: JamesIves/github-pages-deploy-action@v4
