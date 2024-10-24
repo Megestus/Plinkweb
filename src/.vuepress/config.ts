@@ -6,7 +6,7 @@ export default defineUserConfig({
   base: "/HUGTools/",
 
   lang: "zh-CN",
-  title: "HUGToolBox",
+  title: "HUGTool",
   description: "HUGToolBox 的文档",
 
   theme,

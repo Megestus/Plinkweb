@@ -11,33 +11,32 @@ date: 2024-03-21
 article: false
 ---
 
-NormalEdit module is a powerful Maya plugin that provides a set of functions for operating and editing the normal of the model. This tool can help 3D artists more effectively control the lighting and rendering effects of the model.
+NormalEdit 模块提供了一套用于操作和编辑模型法线的功能
 
-## Main Functions
+## 主要功能
 
-### 1. Display Control
+### 1. 显示控制
 
-- **Normal Display Switch**：Quickly turn on or off the normal display.
-- **Normal Length Adjustment**：Precisely control the normal display length through the slider or numerical input.
+- **法线显示开关**：快速打开或关闭法线显示。
+- **法线长度调整**：通过滑块或数值输入精确控制法线显示长度。
 
-### 2. Normal Lock
+### 2. 法线锁定
 
-- **Lock Normal**：Prevent the normal from being accidentally modified.
-- **Unlock Normal**：Allow editing of the normal.
+- **锁定法线**：防止法线被意外修改。
+- **解锁法线**：允许编辑法线。
 
-### 3. Quick Setting
+### 3. 快速设置
 
-- **Axis Setting**：Set the normal of the selected vertices to +X, +Y, +Z, -X, -Y, -Z directions.
-- **Axis Average**：Average the normal on the X, Y, Z axes respectively.
-- **Overall Average**：Average the normal of all selected vertices.
+- **轴向设置**：将选定顶点的法线设置为 +X, +Y, +Z, -X, -Y, -Z 方向。
+- **轴向平均**：分别在 X, Y, Z 轴上平均法线。
+- **整体平均**：平均所有选定顶点的法线。
 
-### 4. Manual Editing
+### 4. 手动编辑
 
-- **Get Normal**：Read the current normal value of the selected vertices or faces.
-- **Set Normal**：Precisely set the normal direction through manual input of X, Y, Z values.
+- **获取法线**：读取选定顶点或面的当前法线值。
+- **设置法线**：通过手动输入 X, Y, Z 值精确设置法线方向。
 
-### 5. Normal Transmission
+### 5. 法线传递
 
-- **Get Source Mesh**：Select the model as the source of the normal.
-- **Transmit Normal**：Transfer the normal of the source model to the target model.
-
+- **获取源模型**：选择模型作为法线的来源。
+- **传递法线**：将源模型的法线传递到目标模型。

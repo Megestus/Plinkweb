@@ -3,12 +3,10 @@ home: true
 icon: home
 title: Home
 heroImage: /MainUI.png
-bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: HUGToolBox
-tagline: 定制工具集 
+tagline: 快捷、高效、集合的HUG定制工具集 
 actions:
   - text: 快速部署
     icon: rocket
@@ -19,96 +17,29 @@ actions:
     icon: book
     link: ./Doc/
 
+features:
 
+  - title: HUG Pipeline Tools
+    icon: box
+    details: 基于管线需求定制工具
 
+  - title: 快捷安装
+    icon: feather-pointed
+    details: 便捷的安装程序，告别复制粘贴
 
-highlights:
-  - header: version 1.0.0
-    description: HUGToolBox 
-    image: /assets/image/box.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
-    highlights:
-      - title: HUG Editor
-        icon: edit
-        details: 待写入
-      - title: HUG Toolbox
-        icon: code
-        details: 待写入
+  - title: 简洁 & 颜值在线
+    icon: heart
+    details: 设计简洁美观，UI的「颜值即正义」。
 
-  - header: 功能
-    # description: 目前支持的功能
-    # image: /assets/image/markdown.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
-    bgImageStyle:
-      background-repeat: repeat
-      background-size: initial
-    features:
-      - title: 待写入
-        icon: clipboard-check
-        details: 待写入描述
-        link: #
+  - title: Box Tools 插件模块化
+    icon: list-ul
+    details: 可便捷拓展插件
 
-      - title: 待写入
-        icon: box-archive
-        details: 待写入描述
-        link: #
+  - title: 多语言
+    icon: language
+    details: 中英文界面自由切换
 
-      - title: 待写入
-        icon: bell
-        details: 待写入描述
-        link: #
-
-      - title: 待写入
-        icon: table-columns
-        details: 待写入描述
-        link: #
-
-      - title: 待写入
-        icon: code
-        details: 待写入描述
-        link: #
-
-      - title: 待写入
-        icon: align-center
-        details: 待写入描述
-        link: #
-
-      - title: 待写入
-        icon: code
-        details: 待写入描述
-        link: #
-
-      - title: 待写入
-        icon: superscript
-        details: 待写入描述
-        link: #
-
-      - title: 待写入
-        icon: quote-left
-        details: 待写入描述
-        link: #
-
-      - title: 待写入
-        icon: highlighter
-        details: 待写入描述
-        link: #
-
-      - title: 待写入
-        icon: eraser
-        details: 待写入描述
-        link: #
-
-      - title: 待写入
-        icon: square-check
-        details: 待写入描述
-        link: #
-
-
-
-
-
-copyright: false
-footer: 基于 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> | MIT 协议 | 版权所有 © 2023-至今 <br> Megestus
+  - title: 更多开源建模插件集成中
+    icon: ellipsis
+    details: 
 ---

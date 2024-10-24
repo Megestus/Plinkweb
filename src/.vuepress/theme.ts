@@ -26,7 +26,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "海内存知己，天涯若比邻。",
   displayFooter: true,
 
   // 加密配置
@@ -50,13 +50,13 @@ export default hopeTheme({
     searchPro: true,
 
     // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
-    // comment: {
-    //   provider: "Giscus",
-    //   repo: "Megestus/HUGweb",
-    //   repoId: "R_kgDOG_Pt2A",
-    //   category: "Announcements",
-    //   categoryId: "DIC_kwDOG_Pt2M4COD69",
-    // },
+    comment: {
+      provider: "Giscus",
+      repo: "Megestus/HUGTools",
+      repoId: "R_kgDONEIt9A",
+      category: "General",
+      categoryId: "DIC_kwDONEIt9M4CjqFl",
+    },
 
     components: {
       components: ["Badge", "VPCard"],

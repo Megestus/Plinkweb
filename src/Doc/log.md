@@ -1,5 +1,5 @@
 ---
-title: 更新日志
+title: log
 icon: fa-solid fa-file-lines
 category:
   - 日志
