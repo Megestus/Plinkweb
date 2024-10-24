@@ -6,9 +6,9 @@ pageInfo: false
 contributors: false
 ---
 
-![HUGTool Logo](/MainUI.png)
+![](/MainUI.png)
 
-[![版本](https://img.shields.io/badge/版本-1.0.2-blue.svg)](https://github.com/Megestus/HUGTool/releases)
+[![](https://img.shields.io/badge/版本-1.0.2-blue.svg)](https://github.com/Megestus/HUGTool/releases)
 
 
 ## 🌟 简介

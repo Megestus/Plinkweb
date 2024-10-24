@@ -1,15 +1,13 @@
 ---
 title: log
 icon: fa-solid fa-file-lines
-category:
-  - 日志
-tags:
-  - 更新记录
 article: false
+pageInfo: false
+contributors: false
 ---
 
 
-### 版本 1.0.2
+## 版本 1.0.2
 - 发布日期: 2024-10-23
 
 #### 新功能
@@ -60,7 +58,7 @@ article: false
 
 &ensp;
 
-### 版本 1.0.1
+## 版本 1.0.1
 - 发布日期: 2024-10-22  
 
 #### 功能修复
@@ -87,7 +85,7 @@ article: false
 
 &ensp;
 
-### 版本 1.0.0
+## 版本 1.0.0
 - 发布日期: 2024-10-21 
 - 正式发布HUGTools 1.0.0版本
 - 完成初步文档部署
