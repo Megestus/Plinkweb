@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "/MainUI.png",
 
-  repo: "Megestus/HUGweb",
+  repo: "Megestus/hugtools",
 
   docsDir: "src",
 
