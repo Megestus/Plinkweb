@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: Home
-heroImage: /MainUI.png
+heroImage: /HUGlogo3.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: HUGToolBox

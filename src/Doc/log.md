@@ -5,6 +5,20 @@ article: false
 pageInfo: false
 contributors: false
 ---
+## 版本 1.2.2
+- 发布日期: 2024-11-10
+
+#### 新功能
+1. 改进UnBevel工具
+   - 新增"拓展边"功能
+   - 新增"UnBevel数值调整"功能
+
+2. 新增Ari UV工具集 
+   - 改进AriScriptLauncherQt.py
+   - 添加帮助拓展工具说明
+
+
+
 
 
 ## 版本 1.0.2

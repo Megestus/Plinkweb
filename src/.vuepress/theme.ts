@@ -13,7 +13,9 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/MainUI.png",
+  favicon: "/HUGlogo4.svg",
+
+  logo: "/HUGlogo4.svg",
 
   repo: "Megestus/hugtools",
 
