@@ -5,7 +5,8 @@ article: false
 pageInfo: false
 contributors: false
 ---
-## 版本 1.2.2
+## V 1.2.2 Beta
+
 - 发布日期: 2024-11-10
 
 #### 新功能
@@ -17,11 +18,54 @@ contributors: false
    - 改进AriScriptLauncherQt.py
    - 添加帮助拓展工具说明
 
+## V 1.2.0 Beta
+
+- 发布日期: 2024-11-08
+  
+- UI布局调整
+- un bevel   -  新增可控滑条
+- edge to curve  新增 提取曲线 
+
+## V 1.1.3 Beta
+
+- 发布日期: 2024-11-07
+
+改动：
+- Quick Export  增加-obj导出类型
+- Unbevel （二次开发中)
 
 
+## V 1.1.2 Beta
+
+- 发布日期: 2024-11-06
+
+新功能
+1.Quick Export     批量导出fbx 可选择中对象导出和带组导出
+2.ScreeenShot     视图高清截图
+
+3.More 工具箱 (新增工具)
+    -  UnBevel   可反向倒角，来自Im3dJoe大佬的免费工具
+    -  SpeedCut   著名的布尔工具，来自Im3dJoe大佬的免费工具
 
 
-## 版本 1.0.2
+## V 1.1.1 Beta
+
+- 发布日期: 2024-11-01
+
+1.优化工具箱结构，后续集成更加方便
+2.加入mirrortool
+
+## V 1.1.0 Beta
+
+- 发布日期: 2024-10-31
+  
+1.移除了几个开发完成的功能按钮
+2.优化SelectControl 组件，优化窗口父子级关系
+   - ViewCapture    maya快捷翻倍截图
+   - Mel to python 代码转化器 
+
+
+## V 1.0.2 Beta
 - 发布日期: 2024-10-23
 
 #### 新功能
@@ -72,7 +116,7 @@ contributors: false
 
 &ensp;
 
-## 版本 1.0.1
+## V 1.0.1 Beta
 - 发布日期: 2024-10-22  
 
 #### 功能修复
@@ -84,9 +128,9 @@ contributors: false
    - 新增中英文语言支持
    - 根据系统设置自动选择显示语言
 
-2. Maya版本检测
+2. MayaV检测
    - 引入 `MayaVerObj` 类和 `get_maya_version()` 函数
-   - 新增 `check_maya_version()` 函数,确保兼容Maya 2022及以上版本
+   - 新增 `check_maya_version()` 函数,确保兼容Maya 2022及以上V
 
 3. 安装流程优化
    - 增设重新安装选项
@@ -99,7 +143,25 @@ contributors: false
 
 &ensp;
 
-## 版本 1.0.0
+## V 1.0.0 Beta
 - 发布日期: 2024-10-21 
-- 正式发布HUGTools 1.0.0版本
+- 正式发布HUGTools 1.0.0V
 - 完成初步文档部署
+
+ 
+常规页模块
+ 
+  - 快捷显示：功能性的切换显示
+  - 法线编辑器：对对象的法线进行一定快捷的编辑
+基于软硬边UV的控制创建模块
+   - 切换软硬显示
+   - 快捷选UV边界边
+   - 基于摄像机创建uv
+   - 快捷UV展开 ：根据软硬边一键展开UV 
+折边模块   
+  - 按名字创建折边集-  选边即可按对象名称规则 创建好项目需求的折边名称... （有新的使用反馈了下个V修复）
+  - 按折边值创建折边-（还有些bug没有攻克）
+工具箱模块
+ - 快捷名称打组建层 。 一键建好所需命名层
+ - 重命名
+ - uv集交换编辑器
