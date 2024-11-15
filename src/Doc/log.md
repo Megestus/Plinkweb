@@ -5,6 +5,28 @@ article: false
 pageInfo: false
 contributors: false
 ---
+
+## V 1.2.5 Beta
+
+- 发布时间：2024-11-15
+
+### 更新信息
+
+1，改进uvsetlist的批量操作和ui风格
+2，改进uv平面投影
+
+
+
+## V 1.2.4 Beta
+
+- 发布时间：2024-11-14
+
+### 更新信息
+
+1.改进 基于uv边界批量实现软硬边并显示
+2.添加 uvsetlist 工具
+
+
 ## V 1.2.2 Beta
 
 - 发布日期: 2024-11-10
