@@ -8,7 +8,7 @@ contributors: false
 
 ![](/HUGlogo3.svg)
 
-[![](https://img.shields.io/badge/版本_1.3.0_Beta -blue.svg)](https://github.com/Megestus/HUGTool/releases)
+[![](https://img.shields.io/badge/版本_1.3.0_Beta-blue.svg)](https://github.com/Megestus/HUGTool/releases)
 
 
 ## 🌟 简介
