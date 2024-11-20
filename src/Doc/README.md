@@ -8,7 +8,7 @@ contributors: false
 
 ![](/HUGlogo3.svg)
 
-[![](https://img.shields.io/badge/版本-1.2.5-blue.svg)](https://github.com/Megestus/HUGTool/releases)
+[![](https://img.shields.io/badge/版本-1.3.0 Beta -blue.svg)](https://github.com/Megestus/HUGTool/releases)
 
 
 ## 🌟 简介
@@ -19,34 +19,35 @@ HUGTool是一款专为团队设计的高效建模工具集。它集成了一系�
 
 ### 🔍 显示控制
 - 法线显示控制（显示/隐藏、大小调节）
-- 软边/硬边模式切换
-- 折痕模式快速切换
-- UV边界显示切换
+- 软边/硬边显示切换
+- 折痕模式显示切换
+- Uv边界边显示切换
 
 ### 🛠️ 编辑器 （wip）
 - 顶点法线编辑工具
 - 折痕编辑器
 - UV编辑器
+- UV set List 编辑器
 
 ### 🎯 选择控制工具
 - 硬边选择 
-- 基于UV边界实现软硬边操作并显示
+- UV边界选择
 - edge2curve
 - 快速平面投影
 - 基于硬边的自动UV布局
-_ Uv集列表工具
+- UnBevel工具
+
 
 ### 🔧 实用工具
 - 快速重命名工具
 - 快速导出工具
 - 快速截图工具
 - UV集交换工具
-- UnBevel工具
 - 边长测量工具
 - 截图工具
 - 镜像工具
 - Ari UV工具集
-- SpeedCut工具
+
 
 ## 🚀 使用方法
 
