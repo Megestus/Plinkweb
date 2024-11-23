@@ -1,11 +1,41 @@
 ---
 title: log
 icon: fa-solid fa-file-lines
-article: false
-pageInfo: false
-contributors: false
+# article: false
+# pageInfo: false
+# contributors: false
 ---
-<<<<<<< Updated upstream
+
+&ensp; 
+
+## V 1.2.7 Beta
+
+- 发布时间：2024-11-17
+
+### 更新信息
+
+1. 优化截图工具
+2. 新增摄像机配置导出导入功能
+   1. 优化UI，添加滑条
+   2. 新增导入导出模块
+3. 修复mirror tool导入功能
+
+&ensp; 
+
+## V 1.2.6 Beta
+
+- 发布时间：2024-11-16
+
+### 更新信息
+
+1. 调整优化UI布局
+2. 移除UV set editor
+3. UV set list优化，名称改为UV set list editor
+   1. 添加UV交换功能
+   2. 添加uvset排序功能
+4. 重写LOD tool
+
+&ensp; 
 
 ## V 1.2.5 Beta
 
@@ -16,7 +46,7 @@ contributors: false
 1，改进uvsetlist的批量操作和ui风格
 2，改进uv平面投影
 
-
+&ensp; 
 
 ## V 1.2.4 Beta
 
@@ -27,15 +57,19 @@ contributors: false
 1.改进 基于uv边界批量实现软硬边并显示
 2.添加 uvsetlist 工具
 
-=======
+&ensp; 
+
 ## V 1.2.3 Bate
    
 - 更新日期：2024-11-12
- 
+
+### 更新信息
+
 - 更新 根据UV边界设置软硬边 - 可批量执行
 - 更新 MapBorders 显示按钮
 - 修复 ari工具箱 列表按钮点击失败
->>>>>>> Stashed changes
+
+&ensp; 
 
 ## V 1.2.2 Beta
 
@@ -50,20 +84,23 @@ contributors: false
    - 改进AriScriptLauncherQt.py
    - 添加帮助拓展工具说明
 
+
+&ensp; 
+
 ## V 1.2.0 Beta
 
-<<<<<<< Updated upstream
-- 发布日期: 2024-11-08
+- 更新日期: 2024-11-08
+  
 
 ### 更新信息
 
-=======
-- 更新日期: 2024-11-08
+
   
->>>>>>> Stashed changes
 - UI布局调整
 - un bevel   -  新增可控滑条
 - edge to curve  新增 提取曲线 
+
+&ensp; 
 
 ## V 1.1.3 Beta
 
@@ -74,6 +111,7 @@ contributors: false
 - Quick Export  增加-obj导出类型
 - Unbevel （二次开发中)
 
+&ensp; 
 
 ## V 1.1.2 Beta
 
@@ -88,6 +126,7 @@ contributors: false
     -  UnBevel   可反向倒角，来自Im3dJoe大佬的免费工具
     -  SpeedCut   著名的布尔工具，来自Im3dJoe大佬的免费工具
 
+&ensp; 
 
 ## V 1.1.1 Beta
 
@@ -97,6 +136,9 @@ contributors: false
 
 1.优化工具箱结构，后续集成更加方便
 2.加入mirrortool
+
+
+&ensp; 
 
 ## V 1.1.0 Beta
 
@@ -108,6 +150,8 @@ contributors: false
 2.优化SelectControl 组件，优化窗口父子级关系
    - ViewCapture    maya快捷翻倍截图
    - Mel to python 代码转化器 
+
+&ensp; 
 
 
 ## V 1.0.2 Beta
@@ -164,7 +208,7 @@ contributors: false
 
 ## V 1.0.1 Beta
 - 更新日期: 2024-10-22  
-
+### 更新信息
 #### 功能修复
 - 解决Maya中UTF-8编码加载错误
 - 优化rename和quickrename工具布局
@@ -193,7 +237,7 @@ contributors: false
 - 更新日期: 2024-10-21 
 - 正式发布HUGTools 1.0.0V
 - 完成初步文档部署
-
+### 更新信息
  
 常规页模块
  
