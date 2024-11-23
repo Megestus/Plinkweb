@@ -8,7 +8,7 @@ contributors: false
 
 ![](/HUGlogo3.svg)
 
-[![](https://img.shields.io/badge/版本_1.3.0_Beta-blue.svg)](https://github.com/Megestus/HUGTool/releases)
+[![](https://img.shields.io/badge/版本_1.3.0-blue.svg)](https://github.com/Megestus/HUGTool/releases)
 
 
 ## 🌟 简介
@@ -47,7 +47,6 @@ HUGTool是一款专为团队设计的高效建模工具集。它集成了一系�
 - UV集交换工具
 - 边长测量工具
 - 截图工具
-- 镜像工具
 - Ari UV工具集
 
 
