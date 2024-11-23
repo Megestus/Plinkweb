@@ -15,7 +15,10 @@ contributors: false
 
 HUGTool是一款专为团队设计的高效建模工具集。它集成了一系列实用的建模、UV和工作流优化功能，致力于提升3D艺术家的日常工作效率。
 
-<!-- ![](https://megestus-1309556466.cos.ap-shanghai.myqcloud.com/img/toolshot.png) -->
+
+<div class="image-preview">
+  <img src="/toolshot.png" style="width: 80% !important; border-radius: 2%;justify-content: center;align-items: center;"/>
+</div>
 
 ## ✨ 主要功能
 
