@@ -5,6 +5,7 @@ article: false
 pageInfo: false
 contributors: false
 ---
+<<<<<<< Updated upstream
 
 ## V 1.2.5 Beta
 
@@ -26,10 +27,19 @@ contributors: false
 1.改进 基于uv边界批量实现软硬边并显示
 2.添加 uvsetlist 工具
 
+=======
+## V 1.2.3 Bate
+   
+- 更新日期：2024-11-12
+ 
+- 更新 根据UV边界设置软硬边 - 可批量执行
+- 更新 MapBorders 显示按钮
+- 修复 ari工具箱 列表按钮点击失败
+>>>>>>> Stashed changes
 
 ## V 1.2.2 Beta
 
-- 发布日期: 2024-11-10
+- 更新日期: 2024-11-10
 
 ### 更新信息
 1. 改进UnBevel工具
@@ -42,17 +52,22 @@ contributors: false
 
 ## V 1.2.0 Beta
 
+<<<<<<< Updated upstream
 - 发布日期: 2024-11-08
 
 ### 更新信息
 
+=======
+- 更新日期: 2024-11-08
+  
+>>>>>>> Stashed changes
 - UI布局调整
 - un bevel   -  新增可控滑条
 - edge to curve  新增 提取曲线 
 
 ## V 1.1.3 Beta
 
-- 发布日期: 2024-11-07
+- 更新日期: 2024-11-07
 
 ### 更新信息
 
@@ -62,7 +77,7 @@ contributors: false
 
 ## V 1.1.2 Beta
 
-- 发布日期: 2024-11-06
+- 更新日期: 2024-11-06
 
 ### 更新信息
 
@@ -76,7 +91,7 @@ contributors: false
 
 ## V 1.1.1 Beta
 
-- 发布日期: 2024-11-01
+- 更新日期: 2024-11-01
 
 ### 更新信息
 
@@ -85,7 +100,7 @@ contributors: false
 
 ## V 1.1.0 Beta
 
-- 发布日期: 2024-10-31
+- 更新日期: 2024-10-31
   
 ### 更新信息
 
@@ -96,7 +111,7 @@ contributors: false
 
 
 ## V 1.0.2 Beta
-- 发布日期: 2024-10-23
+- 更新日期: 2024-10-23
 
 ### 更新信息
 
@@ -148,7 +163,7 @@ contributors: false
 &ensp;
 
 ## V 1.0.1 Beta
-- 发布日期: 2024-10-22  
+- 更新日期: 2024-10-22  
 
 #### 功能修复
 - 解决Maya中UTF-8编码加载错误
@@ -175,7 +190,7 @@ contributors: false
 &ensp;
 
 ## V 1.0.0 Beta
-- 发布日期: 2024-10-21 
+- 更新日期: 2024-10-21 
 - 正式发布HUGTools 1.0.0V
 - 完成初步文档部署
 
