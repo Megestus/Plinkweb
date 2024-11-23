@@ -6,7 +6,11 @@ pageInfo: false
 contributors: false
 ---
 
+<div style="width: 250px; margin: 0 auto; text-align: center">
+
 ![](/HUGlogo3.svg)
+
+</div>
 
 [![](https://img.shields.io/badge/版本_1.3.0-blue.svg)](https://github.com/Megestus/HUGTool/releases)
 

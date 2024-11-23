@@ -1,12 +1,22 @@
 ---
 title: log
 icon: fa-solid fa-file-lines
-# article: false
-# pageInfo: false
-# contributors: false
 ---
 
-&ensp; 
+&ensp;
+
+## V 1.3.0 
+
+- 发布时间：2024-11-24
+
+### 更新信息
+
+- 经过一个月的实际应用测试与验证，HUGTools正式版现已发布
+- 修复了多个已知问题
+- 工具说明文档基本补全
+- 后续将持续进行功能更新与优化
+
+&ensp;
 
 ## V 1.2.7 Beta
 
@@ -14,13 +24,13 @@ icon: fa-solid fa-file-lines
 
 ### 更新信息
 
-1. 优化截图工具
-2. 新增摄像机配置导出导入功能
-   1. 优化UI，添加滑条
-   2. 新增导入导出模块
-3. 修复mirror tool导入功能
+1. 优化截图工具性能与使用体验
+2. 摄像机配置系统升级
+   - 新增UI滑动条控制
+   - 添加配置导入导出功能
+3. 修复Mirror Tool导入功能异常问题
 
-&ensp; 
+&ensp;
 
 ## V 1.2.6 Beta
 
@@ -35,7 +45,7 @@ icon: fa-solid fa-file-lines
    2. 添加uvset排序功能
 4. 重写LOD tool
 
-&ensp; 
+&ensp;
 
 ## V 1.2.5 Beta
 
@@ -46,7 +56,7 @@ icon: fa-solid fa-file-lines
 1，改进uvsetlist的批量操作和ui风格
 2，改进uv平面投影
 
-&ensp; 
+&ensp;
 
 ## V 1.2.4 Beta
 
@@ -57,7 +67,7 @@ icon: fa-solid fa-file-lines
 1.改进 基于uv边界批量实现软硬边并显示
 2.添加 uvsetlist 工具
 
-&ensp; 
+&ensp;
 
 ## V 1.2.3 Bate
    
@@ -69,7 +79,7 @@ icon: fa-solid fa-file-lines
 - 更新 MapBorders 显示按钮
 - 修复 ari工具箱 列表按钮点击失败
 
-&ensp; 
+&ensp;
 
 ## V 1.2.2 Beta
 
@@ -84,8 +94,7 @@ icon: fa-solid fa-file-lines
    - 改进AriScriptLauncherQt.py
    - 添加帮助拓展工具说明
 
-
-&ensp; 
+&ensp;
 
 ## V 1.2.0 Beta
 
@@ -100,7 +109,7 @@ icon: fa-solid fa-file-lines
 - un bevel   -  新增可控滑条
 - edge to curve  新增 提取曲线 
 
-&ensp; 
+&ensp;
 
 ## V 1.1.3 Beta
 
@@ -111,7 +120,7 @@ icon: fa-solid fa-file-lines
 - Quick Export  增加-obj导出类型
 - Unbevel （二次开发中)
 
-&ensp; 
+&ensp;
 
 ## V 1.1.2 Beta
 
@@ -126,7 +135,7 @@ icon: fa-solid fa-file-lines
     -  UnBevel   可反向倒角，来自Im3dJoe大佬的免费工具
     -  SpeedCut   著名的布尔工具，来自Im3dJoe大佬的免费工具
 
-&ensp; 
+&ensp;
 
 ## V 1.1.1 Beta
 
@@ -137,8 +146,7 @@ icon: fa-solid fa-file-lines
 1.优化工具箱结构，后续集成更加方便
 2.加入mirrortool
 
-
-&ensp; 
+&ensp;
 
 ## V 1.1.0 Beta
 
@@ -151,8 +159,7 @@ icon: fa-solid fa-file-lines
    - ViewCapture    maya快捷翻倍截图
    - Mel to python 代码转化器 
 
-&ensp; 
-
+&ensp;
 
 ## V 1.0.2 Beta
 - 更新日期: 2024-10-23
@@ -163,11 +170,9 @@ icon: fa-solid fa-file-lines
    - 打开独立窗口,展示3x3网格的额外工具
    - 在新模块 `More_Tools_Module.py` 中实现
 
-
 2. main 语言切换按钮优化,现可在中英文间切换显示 "CN" 和 "EN"
 3. 文件读取操作新增 CP437 编码支持
 4. 安装过程错误处理和日志记录得到改进
-
 
 #### 主界面布局重组  
    - "选择控制"功能独立成组
@@ -203,7 +208,6 @@ icon: fa-solid fa-file-lines
 - 根据用户反馈进行针对性改进
 - 进一步优化代码结构,提升性能和可读性
 
-
 &ensp;
 
 ## V 1.0.1 Beta
@@ -229,7 +233,6 @@ icon: fa-solid fa-file-lines
 
 4. 兼容性提升
    - `install.mel` 中加入UTF-8编码检测,适应不同系统环境
-
 
 &ensp;
 
