@@ -2,10 +2,19 @@
 title: log
 icon: fa-solid fa-file-lines
 ---
+&ensp;
+
+## V 1.3.1 alpha
+
+### 2024-12-08
+- 更新版本至 `1.3.1 alpha`
+- 注释掉 `UV Editor` 的按钮和相关功能
+- 新增 `CreaseSet Clean` 按钮
+- 修复 `HUGTOOL_HELP_URL`
 
 &ensp;
 
-## V 1.3.0 
+## V 1.3.0 alpha
 
 - 发布时间：2024-11-24
 
@@ -258,3 +267,4 @@ icon: fa-solid fa-file-lines
  - 快捷名称打组建层 。 一键建好所需命名层
  - 重命名
  - uv集交换编辑器
+
