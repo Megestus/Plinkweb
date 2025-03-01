@@ -1,6 +1,6 @@
 ---
-title: HUGTools
-icon: /HUGlogo4.svg
+title: PlinkTools
+icon: /Plink.svg
 article: false
 pageInfo: false
 contributors: false
@@ -8,21 +8,18 @@ contributors: false
 
 <div style="width: 250px; margin: 0 auto; text-align: center">
 
-![](/HUGlogo3.svg)
+![](/Plink.svg)
 
 </div>
 
-[![](https://img.shields.io/badge/版本_1.3.1_alpha-blue.svg)](https://github.com/Megestus/HUGTools/releases)
+[![](https://img.shields.io/badge/版本_1.3.1_alpha-blue.svg)](https://github.com/Megestus/PlinkTools/releases)
 
 
 ## 🌟 简介
 
-HUGTool是一款专为团队设计的高效建模工具集。它集成了一系列实用的建模、UV和工作流优化功能，致力于提升3D艺术家的日常工作效率。
+PlinkTool是一款专为团队设计的高效建模工具集。它集成了一系列实用的建模、UV和工作流优化功能，致力于提升3D艺术家的日常工作效率。
 
 
-<div class="image-preview">
-  <img src="/toolshot.png" style="width: 80% !important; border-radius: 2%;justify-content: center;align-items: center;"/>
-</div>
 
 ## ✨ 主要功能
 
@@ -60,7 +57,7 @@ HUGTool是一款专为团队设计的高效建模工具集。它集成了一系�
 ## 🚀 使用方法
 
 1. 启动Maya
-2. 通过脚本编辑器或快捷键加载HUGTool
+2. 通过脚本编辑器或快捷键加载PlinkTool
 3. 在主界面选择所需功能使用
 
 ## 🌈 特色优势

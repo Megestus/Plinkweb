@@ -10,7 +10,7 @@ icon: fa-solid fa-file-lines
 - 更新版本至 `1.3.1 alpha`
 - 注释掉 `UV Editor` 的按钮和相关功能
 - 新增 `CreaseSet Clean` 按钮
-- 修复 `HUGTOOL_HELP_URL`
+- 修复 `PLINKTOOL_HELP_URL`
 
 &ensp;
 
@@ -20,7 +20,7 @@ icon: fa-solid fa-file-lines
 
 ### 更新信息
 
-- 经过一个月的实际应用测试与验证，HUGTools-alpha 现已发布
+- 经过一个月的实际应用测试与验证，PLINKTools-alpha 现已发布
 - 修复了多个已知问题
 - 工具说明文档基本补全
 - 后续将不定期进行功能更新与优化
@@ -226,7 +226,7 @@ icon: fa-solid fa-file-lines
 - 解决Maya中UTF-8编码加载错误
 - 优化rename和quickrename工具布局
 
-#### HUGTools安装脚本改进
+#### PLINKTools安装脚本改进
 1. 多语言支持
    - 新增中英文语言支持
    - 根据系统设置自动选择显示语言
@@ -247,7 +247,7 @@ icon: fa-solid fa-file-lines
 
 ## V 1.0.0 Beta
 - 更新日期: 2024-10-21 
-- 正式发布HUGTools 1.0.0V
+- 正式发布PLINKTools 1.0.0V
 - 完成初步文档部署
 ### 更新信息
  

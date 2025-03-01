@@ -3,11 +3,11 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/HUGTools/",
+  base: "/Plinkools/",
 
   lang: "zh-CN",
-  title: "HUGTool",
-  description: "HUGToolBox 的文档",
+  title: "PlinkTool",
+  description: "PlinkToolBox 的文档",
 
   theme,
 

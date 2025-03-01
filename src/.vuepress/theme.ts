@@ -13,11 +13,11 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  favicon: "/HUGlogo4.svg",
+  favicon: "/Plink.svg",
 
-  logo: "/HUGlogo4.svg",
+  logo: "/Plink.svg",
 
-  repo: "Megestus/hugtools",
+  repo: "Megestus/Plinktools",
 
   docsDir: "src",
 
@@ -54,7 +54,7 @@ export default hopeTheme({
     // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
     comment: {
       provider: "Giscus",
-      repo: "Megestus/HUGTools",
+      repo: "Megestus/PlinkTools",
       repoId: "R_kgDONEIt9A",
       category: "General",
       categoryId: "DIC_kwDONEIt9M4CjqFl",

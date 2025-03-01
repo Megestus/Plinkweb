@@ -2,11 +2,11 @@
 home: true
 icon: home
 title: Home
-heroImage: /HUGlogo3.svg
+heroImage: /Plink.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: HUGToolBox
-tagline: 快捷、高效、集合的HUG定制工具集 
+heroText: PlinkToolBox
+tagline: 快捷、高效、集合的Plink定制工具集 
 actions:
   - text: 快速部署
     icon: rocket
@@ -20,7 +20,7 @@ actions:
 highlights:
   - header: 
     features:
-      - title: HUG Pipeline Tools
+      - title: Pipeline Tools
         icon: box
         details: 基于管线需求定制工具
         link: ./Doc/
