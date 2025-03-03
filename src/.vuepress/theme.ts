@@ -17,7 +17,7 @@ export default hopeTheme({
 
   logo: "/Plink.svg",
 
-  repo: "Megestus/Plinktools",
+  repo: "Megestus/Plinktool",
 
   docsDir: "src",
 
