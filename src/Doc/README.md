@@ -12,8 +12,10 @@ contributors: false
 
 </div>
 
-[![](https://img.shields.io/badge/版本_1.3.1_alpha-blue.svg)](https://github.com/Megestus/PlinkTools/releases)
+![](https://img.shields.io/badge/版本_1.3.1_alpha-blue.svg)
 
+
+![](/202503190124608.png)
 
 ## 🌟 简介
 
