@@ -56,6 +56,6 @@ jobs:
           folder: src/.vuepress/dist
 
           token: ${{ secrets.ACCESS_TOKEN }}
-          repository-name: Megestus/PlinkTool
+          repository-name: Megestus/Plinkweb
 
           
