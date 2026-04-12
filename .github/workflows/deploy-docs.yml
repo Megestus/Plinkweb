@@ -49,13 +49,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
 
-      # - name: Deploy to HugTools Pages
-      #   uses: JamesIves/github-pages-deploy-action@v4
-      #   with:
-      #     branch: gh-pages
-      #     folder: src/.vuepress/dist
-
-      #     token: ${{ secrets.ACCESS_TOKEN }}
-      #     repository-name: Megestus/PlinkTool
-
           
