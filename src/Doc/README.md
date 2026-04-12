@@ -13,7 +13,7 @@ contributors: false
 
 </div>
 
-![](https://img.shields.io/badge/版本_1.3.1_alpha-blue.svg)
+![](https://img.shields.io/badge/版本_1.4.0_alpha-blue.svg)
 
 ![](/202503190124608.png)
 
