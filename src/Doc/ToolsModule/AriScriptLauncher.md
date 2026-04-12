@@ -1,5 +1,4 @@
-***
-
+---
 title: AriScript Launcher module
 icon: fa-solid fa-rocket
 category:
@@ -11,7 +10,7 @@ category:
   date: 2024-03-21
   article: false
 
-***
+---
 
 AriScript Launcher 模块是一个基于Qt的高效脚本启动器工具，在原作者启动器的基础上进行了重构和优化，提供了更现代化的界面和更强大的功能。
 
