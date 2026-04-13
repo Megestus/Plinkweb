@@ -3,9 +3,9 @@ title: PlinkTools
 icon: /Plink.svg
 article: false
 pageInfo: false
-contributors: false
-
 ---
+
+
 
 <div style="width: 250px; margin: 0 auto; text-align: center">
 
