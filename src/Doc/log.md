@@ -1,9 +1,7 @@
-
 ---
-
 title: log
 icon: fa-solid fa-file-lines
-
+article: false
 ---
 
  
